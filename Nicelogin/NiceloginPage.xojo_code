@@ -70,6 +70,44 @@ Begin WebPage NiceloginPage
       _ShownEventFired=   False
       _VerticalPercent=   0.0
    End
+   Begin WebLink LinkToProject
+      Cursor          =   0
+      Enabled         =   True
+      HasFocusRing    =   True
+      Height          =   22
+      HelpTag         =   "Remove this when integrating in your application"
+      HorizontalCenter=   0
+      Index           =   -2147483648
+      Left            =   798
+      LockBottom      =   False
+      LockedInPosition=   False
+      LockHorizontal  =   False
+      LockLeft        =   False
+      LockRight       =   True
+      LockTop         =   True
+      LockVertical    =   False
+      Multiline       =   False
+      Scope           =   2
+      Style           =   "0"
+      TabOrder        =   1
+      Target          =   2
+      Text            =   "The NiceLogin project by George Poulopoulos "
+      TextAlign       =   3
+      Top             =   20
+      URL             =   "https://github.com/gregorplop/NiceLogin"
+      VerticalCenter  =   0
+      Visible         =   True
+      Width           =   262
+      ZIndex          =   1
+      _DeclareLineRendered=   False
+      _HorizontalPercent=   0.0
+      _IsEmbedded     =   False
+      _Locked         =   False
+      _NeedsRendering =   True
+      _OfficialControl=   False
+      _OpenEventFired =   False
+      _VerticalPercent=   0.0
+   End
 End
 #tag EndWebPage
 
