@@ -78,7 +78,7 @@ Begin WebPage NiceloginPage
       HelpTag         =   "Remove this when integrating in your application"
       HorizontalCenter=   0
       Index           =   -2147483648
-      Left            =   798
+      Left            =   723
       LockBottom      =   False
       LockedInPosition=   False
       LockHorizontal  =   False
@@ -97,7 +97,7 @@ Begin WebPage NiceloginPage
       URL             =   "https://github.com/gregorplop/NiceLogin"
       VerticalCenter  =   0
       Visible         =   True
-      Width           =   262
+      Width           =   337
       ZIndex          =   1
       _DeclareLineRendered=   False
       _HorizontalPercent=   0.0
